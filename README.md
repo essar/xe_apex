@@ -3,7 +3,7 @@ Provides baseline installation of Oracle XE (11.2.0.2) and Oracle Application Ex
 
 ## Dependencies
 
-- docker image: `oracle/database:11.2.0.2`: must be available in local docker registry.
+- docker image: `oracle/database:11.2.0.2-xe`: must be available in local docker registry (see [Oracle Docker Images](https://github.com/oracle/docker-images)).
 - file: `apex_5.1.3_en.zip`: must be placed in `sftw/` directory.
 
 ## Building
