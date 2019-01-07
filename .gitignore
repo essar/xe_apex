@@ -1,0 +1,3 @@
+# Don't include binaries
+*.zip
+*.tar.gz
